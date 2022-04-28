@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class MatrixSumTest {
-
     @Test
     public void whenSingle() {
         int[][] array = {{10}};

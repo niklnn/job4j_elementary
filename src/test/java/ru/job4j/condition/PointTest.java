@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class PointTest {
-
     @Test
     public void when00to00then0() {
         int x1 = 0;

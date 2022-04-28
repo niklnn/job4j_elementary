@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class SwitchArrayTest {
-
     @Test
     public void whenSwap0to3() {
         int[] input = new int[]{1, 2, 3, 4};

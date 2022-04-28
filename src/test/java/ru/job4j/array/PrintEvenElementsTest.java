@@ -5,7 +5,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class PrintEvenElementsTest {
-
     @Test
     public void whenArrayHasOddNumberOfElements() {
         String ln = System.lineSeparator();

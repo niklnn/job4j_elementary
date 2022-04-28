@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class SortSelectedTest {
-
     @Test
     public void whenSortArrayOf5elements() {
         int[] data = {7, 5, 4, 3, 1};

@@ -1,7 +1,6 @@
 package ru.job4j.condition;
 
 public class WeeklySalary {
-
     public static int calculate(int[] hours) {
         int salary = 0;
         for (int i = 0; i < hours.length; ++i) {

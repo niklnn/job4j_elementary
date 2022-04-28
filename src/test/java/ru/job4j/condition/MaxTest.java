@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class MaxTest {
-
     @Test
     public void whenMax1To2Then2() {
         int left = 1;

@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class X2Test {
-
     @Test
     public void whenA1B1C1X1Then3() {
         int a = 1;

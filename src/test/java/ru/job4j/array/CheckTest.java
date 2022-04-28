@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class CheckTest {
-
     @Test
     public void whenDataMonoByTrueThenTrue() {
         boolean[] data = new boolean[]{true, true, true};

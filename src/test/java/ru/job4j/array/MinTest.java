@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class MinTest {
-
     @Test
     public void whenFirstMin() {
         int[] array = new int[]{0, 5, 10};

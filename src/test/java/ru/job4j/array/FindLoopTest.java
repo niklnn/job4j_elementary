@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class FindLoopTest {
-
     @Test
     public void whenArrayHas5Then0() {
         int[] data = {5, 4, 3, 2};

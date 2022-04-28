@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class EndsWithTest {
-
     @Test
     public void whenEndWithPrefixThenTrue() {
         char[] word = {'H', 'e', 'l', 'l', 'o'};

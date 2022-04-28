@@ -4,7 +4,6 @@ import org.junit.Test;
 import org.junit.Assert;
 
 public class MinDiapasonTest {
-
     @Test
     public void whenFirstMin() {
         int[] array = new int[]{-1, 0, 5, 10};
